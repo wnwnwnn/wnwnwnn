@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wnwnwnn
 - 👀 I’m interested in Ad hoc networks in adversarial environments
 - 🌱 I’m currently learning omnet++ 
-- 📫 you can reach me by emails:expo_2019@163.com
+- 📫 You can reach me by emails:expo_2019@163.com
 
 <!---
 wnwnwnn/wnwnwnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
